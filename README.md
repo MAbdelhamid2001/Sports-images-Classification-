@@ -17,6 +17,7 @@ the dataset can be found at:
    Data Augmentation (ImageDataGenerator)
 
 * Methodology
+  
   For models such as mobile net v2, vgg19 and inception models,
   We build their architectures from scratch and then load their 
   weights whether from tensor hub or GitHub.
